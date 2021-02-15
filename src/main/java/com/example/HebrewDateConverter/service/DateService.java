@@ -1,4 +1,4 @@
-package com.example.HebrewDateConverter;
+package com.example.HebrewDateConverter.service;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
